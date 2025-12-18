@@ -5,17 +5,9 @@ This project demonstrates how to blink an LED every 500 milliseconds using the m
 
 
 
-
-
-
-
-
-Este projeto demonstra como fazer um LED piscar a cada 500 milissegundos usando a função millis() em vez de delay(). O LED liga e desliga continuamente sem bloquear a execução do programa, introduzindo o conceito de temporização não bloqueante no Arduino.
-
-
 # Components
 
- • Arduino Uno;
-	•	LED;
-	•	Resistor 220 Ω;
-	•	Breadboard and jumper wires.
+	 • Arduino Uno;
+	 •	LED;
+	 •	Resistor 220 Ω;
+	 •	Breadboard and jumper wires.
