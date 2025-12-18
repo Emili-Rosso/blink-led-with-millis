@@ -7,7 +7,7 @@ This project demonstrates how to blink an LED every 500 milliseconds using the m
 
 # Components
 
-	 • Arduino Uno;
+	 •     Arduino Uno;
 	 •	LED;
 	 •	Resistor 220 Ω;
 	 •	Breadboard and jumper wires.
